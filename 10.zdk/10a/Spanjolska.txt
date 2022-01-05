@@ -1,0 +1,5 @@
+Madrid 3128600
+Barcelona 1605602
+Valencia 805304
+Sevilla 794414
+Malaga 560631

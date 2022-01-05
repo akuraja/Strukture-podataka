@@ -1,0 +1,6 @@
+Lisabon 508209
+Porto 246264
+Amadora 179486
+Braga 123367
+Coimbra 107506
+Funchal 96893
